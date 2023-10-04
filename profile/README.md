@@ -27,11 +27,9 @@ We're proud to have partnered with some of the leading soccer academies in the c
 - 🌐 [Visit our website](https://athleti.fi)
 
 
-## 📈 Support & Invest
+### 💼 Investment Opportunities
 
-Discover the next soccer superstar and be a part of their journey. Dive into our collections and find players that resonate with you. Your support goes a long way in nurturing talent and fostering dreams.
-
-🔗 [Explore AthletiFi Collections](your-collections-url)
+We're excited to share that AthletiFi is open to investment opportunities. If you're passionate about the future of digital sports trading cards and believe in our vision, we'd love to discuss potential collaborations. For investment inquiries, please [contact us](ir@athleti.fi).
 
 ---
 
