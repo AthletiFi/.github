@@ -1,6 +1,6 @@
 # AthletiFi 🥅⚽
 
-![AthletiFi Banner](images/athletifi-nft-field-display-bottom-logo.webp)
+![AthletiFi Banner](../images/athletifi-nft-field-display-bottom-logo.webp)
 
 Welcome to **AthletiFi** - where the future of sports trading cards meets the digital age!
 
