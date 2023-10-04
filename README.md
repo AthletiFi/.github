@@ -1,6 +1,6 @@
 # Welcome to AthletiFi's GitHub 🚀
 
-![Banner](your-banner-image-url)
+![Banner](images/athletifi-logo-horizontal-vectorized.svg)
 
 This repository serves as the central hub for AthletiFi's default community health files and the special README that showcases our organization on our [public profile](https://github.com/AthletiFi)
 
@@ -24,9 +24,6 @@ If you discover a security vulnerability in our projects, please follow our [sec
 
 ## 📬 Get in Touch
 
-- 🐦 Twitter: [@AthletiFi](your-twitter-url)
+- ✖️ X \(formerly Twitter\): [@AthletiFi](https://twitter.com/athletifi)
 - 🌐 Website: [athleti.fi](https://athleti.fi)
 - 📧 Email: [info@athleti.fi](mailto:support@athletifi.com)
-
-
-
