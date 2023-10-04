@@ -1,5 +1,5 @@
 # AthletiFi 🥅⚽
-<img src="../images/athletifi-nft-field-display-bottom-logo.webp" alt="AthletiFi Banner" width="800"/>
+<img src="https://raw.githubusercontent.com/AthletiFi/.github/main/images/athletifi-nft-field-display-bottom-logo.webp" alt="AthletiFi Banner" width="800"/>
 
 Welcome to **AthletiFi** - where the future of sports trading cards meets the digital age!
 
