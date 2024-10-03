@@ -1,35 +1,41 @@
 # AthletiFi 🥅⚽
 <img src="https://raw.githubusercontent.com/AthletiFi/.github/main/images/athletifi-nft-field-display-bottom-logo.webp" alt="AthletiFi Banner" width="800"/>
 
-Welcome to **AthletiFi** - where the future of sports trading cards meets the digital age!
+Welcome to **AthletiFi** - where we are empowering young athletes with data-driven insights and collectible memories.
 
 ## 🌟 About Us
 
-AthletiFi is revolutionizing the way fans discover, follow, and support young soccer talent. We craft digital sports trading cards as NFT collections for players at elite youth soccer academies. With the power of AI-assisted video recognition technology, these cards dynamically update with the latest performance stats, offering fans an immersive and up-to-date snapshot of their favorite rising stars.
+AthletiFi is revolutionizing youth soccer by blending cutting-edge analytics with the nostalgia of collectible cards. Our automated stats and highlights platform transforms raw game data into engaging, accessible insights for players, parents, coaches, and recruiters. By democratizing advanced sports analytics, we're leveling the playing field for young athletes and smaller clubs, paving the way for the next generation of soccer stars to emerge from anywhere.
 
-## 🎮 Playable in Web3 Games
-
-Our unique soccer player cards aren't just for show! They will soon be playable in an upcoming Web3 game, allowing fans to step into the shoes of their favorite players.
+## 🚀 Our Platform
+- **AthletiFi Dashboard**: A comprehensive real-time analytics platform offering in-depth insights into player performance.
+- **Physical Player Cards**: Unique cards with QR codes that unlock each player's digital profile.
+- **Automated Stats Engine**: Utilizes advanced machine learning and computer vision to analyze game footage and generate detailed statistics.
+- **Performance Ratings**: Players are evaluated on five core metrics: Skill, Attacking, Physical, Mentality, Defending, Goalkeeping.
 
 ## 💡 Why AthletiFi?
 
-- **Engagement**: Dive deep into the world of soccer and connect with players on a personal level.
-- **Support**: Our revenue-sharing model directly benefits players, academies, and communities. By engaging with AthletiFi, you're supporting the dreams of many young talents.
-- **Innovation**: Experience the blend of cutting-edge blockchain technology with the passion of soccer.
+- **Data-Driven Development**: Empower coaches and players with actionable insights to enhance training and performance.
+- **Enhanced Engagement**: Keep parents informed and involved in their child's soccer journey.
+- **Talent Discovery**: Provide recruiters with objective, data-backed assessments of young talent.
+- **Club Differentiation**: Help youth soccer clubs stand out by offering cutting-edge analytics and player development tools.
 
 ## 🤝 Partnerships
 
-We're proud to have partnered with some of the leading soccer academies in the country. Together, we're shaping the future of soccer in the digital realm.
+We're currently piloting our platform with select youth soccer clubs and are always looking to expand our network. If you're a club director, coach, or soccer organization interested in leveraging advanced analytics for player development, we'd love to hear from you!
 
 ## 🎉 Join the Community
 
-- ✖️ [Follow us on X (formerly Twitter)](https://twitter.com/athletifi)
+- ✖️ [Follow us on X](https://twitter.com/athletifi)
+- 💼 [Connect with us on LinkedIn](https://www.linkedin.com/company/athletifi)
+- 📸 [Follow us on Instagram](https://www.instagram.com/athletifi)
+- 👍 [Like us on Facebook](https://www.facebook.com/AthletiFi)
 - 🌐 [Visit our website](https://athleti.fi)
 
 
 ### 💼 Investment Opportunities
 
-We're excited to share that AthletiFi is open to investment opportunities. If you're passionate about the future of digital sports trading cards and believe in our vision, we'd love to discuss potential collaborations. For investment inquiries, please [contact us](ir@athleti.fi).
+AthletiFi is at the forefront of sports technology innovation, addressing a significant market need in youth soccer. If you're interested in being part of the future of sports analytics and believe in our vision, we'd love to discuss potential opportunities. For investment inquiries, please contact us at [ir@athleti.fi](mailto:ir@athleti.fi).
 
 ---
 
