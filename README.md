@@ -1,18 +1,10 @@
-# Welcome to AthletiFi's GitHub 🚀
+# .github profile for AthletiFi
 
-![Banner](images/athletifi-logo-horizontal-vectorized.svg)
-
-This repository serves as the central hub for AthletiFi's default community health files and the special README that showcases our organization on our [public profile](https://github.com/AthletiFi)
-
-## 🌟 About AthletiFi
-
-AthletiFi is revolutionizing the way fans engage with young soccer players. As a digital sports trading card company, we utilize NFT technology to offer a unique experience. Our dynamic collections, created for players at elite youth soccer academies, highlight performance stats through cutting-edge AI-assisted video recognition technology.
-
-🔗 [Visit our website](https://athleti.fi)
+This repository contains organization-wide GitHub configurations and health files for AthletiFi, as well as the special README that showcases our organization on our [public profile](https://github.com/AthletiFi)
 
 ## 🤝 Contributing
 
-We value the contributions of soccer fans, developers, and enthusiasts alike. If you're interested in contributing to our projects, please check out our [contribution guidelines](./CONTRIBUTING.md).
+If you're interested in contributing to our projects, please check out our [contribution guidelines](./CONTRIBUTING.md).
 
 ## 🛡️ Code of Conduct
 
@@ -24,6 +16,5 @@ If you discover a security vulnerability in our projects, please follow our [sec
 
 ## 📬 Get in Touch
 
-- ✖️ X \(formerly Twitter\): [@AthletiFi](https://twitter.com/athletifi)
 - 🌐 Website: [athleti.fi](https://athleti.fi)
-- 📧 Email: [info@athleti.fi](mailto:support@athletifi.com)
+- 📧 Email: [info@athleti.fi](mailto:info@athletifi.com)
