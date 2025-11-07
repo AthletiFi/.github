@@ -1,6 +1,6 @@
-# .github profile for AthletiFi
+# .github profile for Pleyr
 
-This repository contains organization-wide GitHub configurations and health files for AthletiFi, as well as the special README that showcases our organization on our [public profile](https://github.com/AthletiFi)
+This repository contains organization-wide GitHub configurations and health files for Pleyr, as well as the special README that showcases our organization on our [public profile](https://github.com/AthletiFi)
 
 ## 🤝 Contributing
 
@@ -16,5 +16,5 @@ If you discover a security vulnerability in our projects, please follow our [sec
 
 ## 📬 Get in Touch
 
-- 🌐 Website: [athleti.fi](https://athleti.fi)
-- 📧 Email: [info@athleti.fi](mailto:info@athletifi.com)
+- 🌐 Website: [pleyr.com](https://pleyr.com)
+- 📧 Email: [info@pleyr.com](mailto:info@pleyr.com)

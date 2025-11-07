@@ -1,42 +1,49 @@
-# Contributing to AthletiFi
+# Contributing to AthletiFi Sport Inc. & Pleyr
 
-First and foremost, thank you for considering contributing to AthletiFi! We appreciate the time and effort you're willing to invest in our projects. This document provides guidelines to ensure that your contributions align with the goals and standards of our organization.
+First and foremost, thank you for your interest in contributing to our projects! We are building **Pleyr**, a platform dedicated to empowering youth athletes, and we appreciate the time and effort you're willing to invest.
 
-## 🚀 Getting Started
+This document provides a high-level overview of how you can contribute to projects within the AthletiFi Sport Inc. GitHub organization.
 
-1. **Fork the Repository**: If you're looking to contribute, start by forking the repository you're interested in, then clone your fork to your local machine.
+## 🎯 How to Contribute
 
-   ```bash
-   git clone https://github.com/AthletiFi/[repository_name]
-   ```
+Our core platform, Pleyr, is developed internally. However, we may have other open-source tools, libraries, or projects where community contributions are welcome. The best way to contribute is often by:
 
-2. **Create a New Branch**: Always create a new branch for your changes. This keeps the commit history clean and straightforward.
+- **Reporting Bugs**: If you find a bug, please create an issue in the relevant repository, providing as much detail as possible.
+- **Suggesting Features**: Have an idea to make Pleyr better? We'd love to hear it. Please use the issue tracker to suggest new features.
+- **Improving Documentation**: If you find parts of our documentation that are unclear or could be improved, a pull request is always welcome.
 
-   ```bash
-   git checkout -b your-branch-name
-   ```
+## 🚀 Getting Started with Code Contributions
 
-3. **Set Up the Environment**: Ensure you've set up the necessary tools and dependencies to run the project locally. Refer to the project's README for specific instructions.
+If you're looking to contribute code to one of our open-source repositories, please follow these general steps.
 
-## 📝 Code Guidelines
+1. **Check for Specific Guidelines**: **Before you start, please look for a `CONTRIBUTING.md` file within the specific repository you are working on.** Core repositories like our main web application have detailed setup instructions that you must follow. This document is only a general guide.
 
-- **Coding Style**: Adhere to the coding style and conventions used throughout the project. This ensures consistency and readability.
-- **Commit Messages**: Write clear and descriptive commit messages. This helps in understanding the history and purpose of your changes.
-- **Documentation**: If you're introducing a new feature or making changes that affect the functionality, update the relevant documentation or add new documentation as necessary.
-- **Testing**: If applicable, add tests for the changes you're making. Ensure that all tests pass before submitting a pull request.
+2. **Fork & Clone**: Start by forking the repository, then clone your fork to your local machine.
 
-## Submitting Changes
+    ```bash
+    git clone https://github.com/YourUsername/[repository_name]
+    ```
 
-1. **Push to Your Fork**: Once you've made your changes, push them to your fork on GitHub.
-2. **Open a Pull Request**: Go to the main repository and open a pull request. Provide a clear title and a detailed description of the changes you've made.
-3. **Address Feedback**: If there's feedback on your pull request, address it promptly. This ensures that your contributions can be integrated as smoothly as possible.
+3. **Create a New Branch**: Always create a new branch for your feature or bugfix. This keeps the commit history clean.
 
-## Community
-Remember, open source is all about collaboration. Be respectful of others, be open to feedback, and always strive to learn and grow. If you have questions or need help, don't hesitate to reach out.
+    ```bash
+    git checkout -b your-feature-name
+    ```
 
-## Contact
+## 📝 Guidelines for Pull Requests
 
-If you have specific questions about contributing or run into issues, feel free to reach out to us:
-- Email: support@athleti.fi
+- **Adhere to Style Guides**: Follow the coding style, linting rules, and conventions used throughout the project. Check the repository's `README.md` for information on tools like ESLint and Prettier.
+- **Write Clear Commit Messages**: Your commit messages should be descriptive and clearly explain the "what" and "why" of your change.
+- **Keep It Focused**: A pull request should address a single issue or feature. Avoid mixing multiple unrelated changes in one PR.
+- **Update Documentation**: If you introduce a new feature or change existing functionality, update the relevant documentation.
+- **Ensure Tests Pass**: If the project includes tests, please ensure they all pass before submitting your pull request. Add new tests for your changes where applicable.
 
-Thank you for being a part of the AthletiFi community. Your contributions help us drive the future of digital sports trading cards and redefine fan engagement!
+## ©️ Code of Conduct
+
+All contributors are expected to adhere to our **[Code of Conduct](./CODE_OF_CONDUCT.md)**. Please be respectful, constructive, and collaborative.
+
+## ❓ Questions?
+
+If you have questions about a specific repository or contribution process, the best place to ask is by creating an issue in that repository. For general inquiries, you can reach us at **<info@pleyr.com>**.
+
+Thank you for helping us build the future of youth sports!
